@@ -26,6 +26,7 @@ public class test35 {
 
             } else {
 
+
                 left = mid + 1;
 
             }
